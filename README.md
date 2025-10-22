@@ -37,3 +37,5 @@ The course instructor will also be sure to reference the exact folder and name o
 #### Reporting issues or errata
 
 If you encounter technical issues with this code as you complete the course (i.e. typos, missing code, broken links, etc.), please report those issues in the course through Coursera. Ensure the issue contains sufficient detail so that it can be properly addressed.
+
+this is sample
